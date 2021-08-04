@@ -1,2 +1,3 @@
-# snake_game
+# Snake Game
+
 Snake game with Python-Turtle
